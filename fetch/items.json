@@ -1,0 +1,160 @@
+[
+  {
+    "url": "https://rerollcdn.com/items/Bloodthirster.png",
+    "name": "Bloodthirster"
+  },
+  { "url": "https://rerollcdn.com/items/BlueBuff.png", "name": "Blue Buff" },
+  {
+    "url": "https://rerollcdn.com/items/BrambleVest.png",
+    "name": "Bramble Vest"
+  },
+  {
+    "url": "https://rerollcdn.com/items/ChaliceofPower.png",
+    "name": "Chalice of Power"
+  },
+  { "url": "https://rerollcdn.com/items/Deathblade.png", "name": "Deathblade" },
+  {
+    "url": "https://rerollcdn.com/items/DragonsClaw.png",
+    "name": "Dragon's Claw"
+  },
+  {
+    "url": "https://rerollcdn.com/items/DuelistsZeal.png",
+    "name": "Duelist's Zeal"
+  },
+  {
+    "url": "https://rerollcdn.com/items/ElderwoodHeirloom.png",
+    "name": "Elderwood Heirloom"
+  },
+  {
+    "url": "https://rerollcdn.com/items/FrozenHeart.png",
+    "name": "Frozen Heart"
+  },
+  {
+    "url": "https://rerollcdn.com/items/GargoyleStoneplate.png",
+    "name": "Gargoyle Stoneplate"
+  },
+  {
+    "url": "https://rerollcdn.com/items/GiantSlayer.png",
+    "name": "Giant Slayer"
+  },
+  {
+    "url": "https://rerollcdn.com/items/GuardianAngel.png",
+    "name": "Guardian Angel"
+  },
+  {
+    "url": "https://rerollcdn.com/items/GuinsoosRageblade.png",
+    "name": "Guinsoo's Rageblade"
+  },
+  {
+    "url": "https://rerollcdn.com/items/HandofJustice.png",
+    "name": "Hand of Justice"
+  },
+  {
+    "url": "https://rerollcdn.com/items/HextechGunblade.png",
+    "name": "Hextech Gunblade"
+  },
+  {
+    "url": "https://rerollcdn.com/items/InfinityEdge.png",
+    "name": "Infinity Edge"
+  },
+  {
+    "url": "https://rerollcdn.com/items/IonicSpark.png",
+    "name": "Ionic Spark"
+  },
+  {
+    "url": "https://rerollcdn.com/items/JeweledGauntlet.png",
+    "name": "Jeweled Gauntlet"
+  },
+  {
+    "url": "https://rerollcdn.com/items/LastWhisper.png",
+    "name": "Last Whisper"
+  },
+  {
+    "url": "https://rerollcdn.com/items/LocketoftheIronSolari.png",
+    "name": "Locket of the Iron Solari"
+  },
+  {
+    "url": "https://rerollcdn.com/items/LudensEcho.png",
+    "name": "Luden's Echo"
+  },
+  { "url": "https://rerollcdn.com/items/MagesCap.png", "name": "Mage's Cap" },
+  {
+    "url": "https://rerollcdn.com/items/MantleofDusk.png",
+    "name": "Mantle of Dusk"
+  },
+  {
+    "url": "https://rerollcdn.com/items/Morellonomicon.png",
+    "name": "Morellonomicon"
+  },
+  {
+    "url": "https://rerollcdn.com/items/Quicksilver.png",
+    "name": "Quicksilver"
+  },
+  {
+    "url": "https://rerollcdn.com/items/RabadonsDeathcap.png",
+    "name": "Rabadon's Deathcap"
+  },
+  {
+    "url": "https://rerollcdn.com/items/RapidFirecannon.png",
+    "name": "Rapid Firecannon"
+  },
+  { "url": "https://rerollcdn.com/items/Redemption.png", "name": "Redemption" },
+  {
+    "url": "https://rerollcdn.com/items/RunaansHurricane.png",
+    "name": "Runaan's Hurricane"
+  },
+  {
+    "url": "https://rerollcdn.com/items/ShroudofStillness.png",
+    "name": "Shroud of Stillness"
+  },
+  {
+    "url": "https://rerollcdn.com/items/SpearofShojin.png",
+    "name": "Spear of Shojin"
+  },
+  {
+    "url": "https://rerollcdn.com/items/StatikkShiv.png",
+    "name": "Statikk Shiv"
+  },
+  {
+    "url": "https://rerollcdn.com/items/SunfireCape.png",
+    "name": "Sunfire Cape"
+  },
+  {
+    "url": "https://rerollcdn.com/items/SwordoftheDivine.png",
+    "name": "Sword of the Divine"
+  },
+  {
+    "url": "https://rerollcdn.com/items/ThiefsGloves.png",
+    "name": "Thief's Gloves"
+  },
+  {
+    "url": "https://rerollcdn.com/items/TitansResolve.png",
+    "name": "Titan's Resolve"
+  },
+  { "url": "https://rerollcdn.com/items/TrapClaw.png", "name": "Trap Claw" },
+  {
+    "url": "https://rerollcdn.com/items/VanguardsCuirass.png",
+    "name": "Vanguard's Cuirass"
+  },
+  {
+    "url": "https://rerollcdn.com/items/WarlordsBanner.png",
+    "name": "Warlord's Banner"
+  },
+  {
+    "url": "https://rerollcdn.com/items/WarmogsArmor.png",
+    "name": "Warmog's Armor"
+  },
+  {
+    "url": "https://rerollcdn.com/items/YoumuusGhostblade.png",
+    "name": "Youmuu's Ghostblade"
+  },
+  {
+    "url": "https://rerollcdn.com/items/ZekesHerald.png",
+    "name": "Zeke's Herald"
+  },
+  { "url": "https://rerollcdn.com/items/Zephyr.png", "name": "Zephyr" },
+  {
+    "url": "https://rerollcdn.com/items/ZzRotPortal.png",
+    "name": "Zz'Rot Portal"
+  }
+]

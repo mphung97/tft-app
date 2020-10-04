@@ -1,0 +1,34 @@
+[
+  { "url": "https://rerollcdn.com/icons/cultist.png", "name": "Cultist" },
+  { "url": "https://rerollcdn.com/icons/divine.png", "name": "Divine" },
+  { "url": "https://rerollcdn.com/icons/dusk.png", "name": "Dusk" },
+  { "url": "https://rerollcdn.com/icons/elderwood.png", "name": "Elderwood" },
+  {
+    "url": "https://rerollcdn.com/icons/enlightened.png",
+    "name": "Enlightened"
+  },
+  { "url": "https://rerollcdn.com/icons/exile.png", "name": "Exile" },
+  { "url": "https://rerollcdn.com/icons/fortune.png", "name": "Fortune" },
+  { "url": "https://rerollcdn.com/icons/moonlight.png", "name": "Moonlight" },
+  { "url": "https://rerollcdn.com/icons/ninja.png", "name": "Ninja" },
+  { "url": "https://rerollcdn.com/icons/spirit.png", "name": "Spirit" },
+  { "url": "https://rerollcdn.com/icons/theboss.png", "name": "The Boss" },
+  { "url": "https://rerollcdn.com/icons/tormented.png", "name": "Tormented" },
+  { "url": "https://rerollcdn.com/icons/warlord.png", "name": "Warlord" },
+  { "url": "https://rerollcdn.com/icons/adept.png", "name": "Adept" },
+  { "url": "https://rerollcdn.com/icons/assassin.png", "name": "Assassin" },
+  { "url": "https://rerollcdn.com/icons/brawler.png", "name": "Brawler" },
+  { "url": "https://rerollcdn.com/icons/dazzler.png", "name": "Dazzler" },
+  { "url": "https://rerollcdn.com/icons/duelist.png", "name": "Duelist" },
+  { "url": "https://rerollcdn.com/icons/emperor.png", "name": "Emperor" },
+  { "url": "https://rerollcdn.com/icons/hunter.png", "name": "Hunter" },
+  { "url": "https://rerollcdn.com/icons/keeper.png", "name": "Keeper" },
+  { "url": "https://rerollcdn.com/icons/mage.png", "name": "Mage" },
+  { "url": "https://rerollcdn.com/icons/mystic.png", "name": "Mystic" },
+  { "url": "https://rerollcdn.com/icons/shade.png", "name": "Shade" },
+  {
+    "url": "https://rerollcdn.com/icons/sharpshooter.png",
+    "name": "Sharpshooter"
+  },
+  { "url": "https://rerollcdn.com/icons/vanguard.png", "name": "Vanguard" }
+]
