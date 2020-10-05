@@ -1,46 +1,265 @@
 [
-  { "id": "_1lpBCMbZ", "name": "Bloodthirster" },
-  { "id": "yHaBPUuQ9z", "name": "Blue Buff" },
-  { "id": "vWa9WfBebE", "name": "Bramble Vest" },
-  { "id": "FgMlyrSe7v", "name": "Chalice of Power" },
-  { "id": "vA8oYgf-_w", "name": "Deathblade" },
-  { "id": "UfP5PMTy2h", "name": "Dragon's Claw" },
-  { "id": "CpXnarlgus", "name": "Duelist's Zeal" },
-  { "id": "mNglbjGyWt", "name": "Elderwood Heirloom" },
-  { "id": "qBCpKG2gxv", "name": "Frozen Heart" },
-  { "id": "5bxV6sF8t-", "name": "Gargoyle Stoneplate" },
-  { "id": "ksdEUiBfCV", "name": "Giant Slayer" },
-  { "id": "tlYRmcZVKS", "name": "Guardian Angel" },
-  { "id": "0riTKLIdWy", "name": "Guinsoo's Rageblade" },
-  { "id": "uDysnu07BM", "name": "Hand of Justice" },
-  { "id": "rwqglN55NU", "name": "Hextech Gunblade" },
-  { "id": "BBgL_NIvn7", "name": "Infinity Edge" },
-  { "id": "EVMriMXKP_L", "name": "Ionic Spark" },
-  { "id": "jHx6Ds5BURc", "name": "Jeweled Gauntlet" },
-  { "id": "HJkfbUsYyRc", "name": "Last Whisper" },
-  { "id": "Ua7B80NzN0P", "name": "Locket of the Iron Solari" },
-  { "id": "L1HkH3YLtDo", "name": "Luden's Echo" },
-  { "id": "wYbflsaqq1E", "name": "Mage's Cap" },
-  { "id": "XpsPNRk7gqR", "name": "Mantle of Dusk" },
-  { "id": "NFlzFQFpfk7", "name": "Morellonomicon" },
-  { "id": "eVxfDmT0bhT", "name": "Quicksilver" },
-  { "id": "ygxtDiaDSfd", "name": "Rabadon's Deathcap" },
-  { "id": "mz6n0dvlzqA", "name": "Rapid Firecannon" },
-  { "id": "dEcDbrVAaOH", "name": "Redemption" },
-  { "id": "wt2vZfX1HY0", "name": "Runaan's Hurricane" },
-  { "id": "hyFYGYHPaTd", "name": "Shroud of Stillness" },
-  { "id": "PBmP0nLOKhL", "name": "Spear of Shojin" },
-  { "id": "KTAv6WvjbL5", "name": "Statikk Shiv" },
-  { "id": "N9miNqEmWt8", "name": "Sunfire Cape" },
-  { "id": "30rxglWL6cd", "name": "Sword of the Divine" },
-  { "id": "DM5Tj90tYHK", "name": "Thief's Gloves" },
-  { "id": "lLvauSF-qOU", "name": "Titan's Resolve" },
-  { "id": "QYWXc_JAwFd", "name": "Trap Claw" },
-  { "id": "JSsUImQ5NvU", "name": "Vanguard's Cuirass" },
-  { "id": "_n-UkTYapn6", "name": "Warlord's Banner" },
-  { "id": "9U4NntYAcpC", "name": "Warmog's Armor" },
-  { "id": "q-m8T-tvGfk", "name": "Youmuu's Ghostblade" },
-  { "id": "9thZR221_ZW", "name": "Zeke's Herald" },
-  { "id": "S24vYYz8sbc", "name": "Zephyr" },
-  { "id": "HYk0At0UtN9", "name": "Zz'Rot Portal" }
+  {
+    "id": "_1lpBCMbZ",
+    "name": "Bloodthirster",
+    "type": "combined",
+    "recipe": []
+  },
+  { "id": "yHaBPUuQ9z", "name": "Blue Buff", "type": "combined", "recipe": [] },
+  {
+    "id": "vWa9WfBebE",
+    "name": "Bramble Vest",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "FgMlyrSe7v",
+    "name": "Chalice of Power",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "vA8oYgf-_w",
+    "name": "Deathblade",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "UfP5PMTy2h",
+    "name": "Dragon's Claw",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "CpXnarlgus",
+    "name": "Duelist's Zeal",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "mNglbjGyWt",
+    "name": "Elderwood Heirloom",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "qBCpKG2gxv",
+    "name": "Frozen Heart",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "5bxV6sF8t-",
+    "name": "Gargoyle Stoneplate",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "ksdEUiBfCV",
+    "name": "Giant Slayer",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "tlYRmcZVKS",
+    "name": "Guardian Angel",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "0riTKLIdWy",
+    "name": "Guinsoo's Rageblade",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "uDysnu07BM",
+    "name": "Hand of Justice",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "rwqglN55NU",
+    "name": "Hextech Gunblade",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "BBgL_NIvn7",
+    "name": "Infinity Edge",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "EVMriMXKP_L",
+    "name": "Ionic Spark",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "jHx6Ds5BURc",
+    "name": "Jeweled Gauntlet",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "HJkfbUsYyRc",
+    "name": "Last Whisper",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "Ua7B80NzN0P",
+    "name": "Locket of the Iron Solari",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "L1HkH3YLtDo",
+    "name": "Luden's Echo",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "wYbflsaqq1E",
+    "name": "Mage's Cap",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "XpsPNRk7gqR",
+    "name": "Mantle of Dusk",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "NFlzFQFpfk7",
+    "name": "Morellonomicon",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "eVxfDmT0bhT",
+    "name": "Quicksilver",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "ygxtDiaDSfd",
+    "name": "Rabadon's Deathcap",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "mz6n0dvlzqA",
+    "name": "Rapid Firecannon",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "dEcDbrVAaOH",
+    "name": "Redemption",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "wt2vZfX1HY0",
+    "name": "Runaan's Hurricane",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "hyFYGYHPaTd",
+    "name": "Shroud of Stillness",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "PBmP0nLOKhL",
+    "name": "Spear of Shojin",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "KTAv6WvjbL5",
+    "name": "Statikk Shiv",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "N9miNqEmWt8",
+    "name": "Sunfire Cape",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "30rxglWL6cd",
+    "name": "Sword of the Divine",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "DM5Tj90tYHK",
+    "name": "Thief's Gloves",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "lLvauSF-qOU",
+    "name": "Titan's Resolve",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "QYWXc_JAwFd",
+    "name": "Trap Claw",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "JSsUImQ5NvU",
+    "name": "Vanguard's Cuirass",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "_n-UkTYapn6",
+    "name": "Warlord's Banner",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "9U4NntYAcpC",
+    "name": "Warmog's Armor",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "q-m8T-tvGfk",
+    "name": "Youmuu's Ghostblade",
+    "type": "combined",
+    "recipe": []
+  },
+  {
+    "id": "9thZR221_ZW",
+    "name": "Zeke's Herald",
+    "type": "combined",
+    "recipe": []
+  },
+  { "id": "S24vYYz8sbc", "name": "Zephyr", "type": "combined", "recipe": [] },
+  {
+    "id": "HYk0At0UtN9",
+    "name": "Zz'Rot Portal",
+    "type": "combined",
+    "recipe": []
+  },
+  { "id": "9c8SNW-Fi", "name": "Zz'Rot Portal", "type": "base" },
+  { "id": "KyI6LROiw2", "name": "Zz'Rot Portal", "type": "base" },
+  { "id": "YaPxDs3-Is", "name": "Zz'Rot Portal", "type": "base" },
+  { "id": "qE8fhN7AhI", "name": "Zz'Rot Portal", "type": "base" },
+  { "id": "mY569z71D4", "name": "Zz'Rot Portal", "type": "base" },
+  { "id": "iidzbedv3u", "name": "Zz'Rot Portal", "type": "base" },
+  { "id": "rutm5Hip3g", "name": "Zz'Rot Portal", "type": "base" },
+  { "id": "LAqOEAk7PC", "name": "Zz'Rot Portal", "type": "base" },
+  { "id": "4oPgRLxl3h", "name": "Zz'Rot Portal", "type": "base" }
 ]
