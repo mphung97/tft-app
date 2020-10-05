@@ -1,8 +1,8 @@
 const axios = require("axios");
 const fs = require("fs");
-const characters = require("./characters.json");
-const origin = require("./originandclass.json");
-const items = require("./items.json");
+const characters = require("./data/characters.json");
+const origin = require("./data/originandclass.json");
+const items = require("./data/items.json");
 
 async function download(url, path) {
   const name = url.split("/").pop();
@@ -23,13 +23,13 @@ async function download(url, path) {
   });
 }
 
-characters.forEach(({ url }) => {
-  download(url, "characters");
-});
+// characters.forEach(({ url }) => {
+//   download(url, "characters");
+// });
 
-origin.forEach(({ url }) => {
-  download(url, "originandclass");
-});
+// origin.forEach(({ url }) => {
+//   download(url, "originandclass");
+// });
 
 items.forEach(({ url }) => {
   download(url, "items");

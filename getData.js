@@ -1,5 +1,6 @@
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
+const shortId = require("shortid");
 const fs = require("fs");
 
 async function getChampAndItem() {
@@ -84,21 +85,57 @@ async function getOriginAndClass() {
 // getChampAndItem();
 // getOriginAndClass();
 
-const characters = require("./data/originandclass.json");
-const shortid = require("shortid");
+async function getItems() {
+  try {
+    const browser = await puppeteer.launch();
+    const page = await browser.newPage();
+    await page.goto("https://tftactics.gg/item-builder");
 
-function addId() {
-  const charactersWithId = characters.map(({ name }) => ({
-    id: shortid.generate(),
-    name,
-  }));
-  console.log(charactersWithId);
+    await page.waitForSelector(".characters-item", { timeout: 3000 });
+    const content = await page.content();
 
-  const json = JSON.stringify(charactersWithId);
+    const selector = cheerio.load(content);
 
-  fs.writeFile("./data/originandclass.json", json, "utf8", () => {
-    console.log("success");
-  });
+    const searchResults = selector("body")
+      .find("section[class='container item-builder']")
+      .find("div[class='col-12 col-lg-3 sidebar']")
+      .find("img[class='character-icon']");
+
+    const characters = searchResults
+      .map((idx, el) => {
+        const elementSelector = selector(el);
+        return {
+          url: elementSelector.attr("src").trim(),
+          name: elementSelector.attr("alt").trim(),
+        };
+      })
+      .get();
+
+    const data = characters.map((char, idx) => {
+      if (idx < 9) {
+        return Object.assign({}, char, {
+          type: "base",
+          id: shortId.generate(),
+        });
+      }
+      return Object.assign({}, char, {
+        type: "combined",
+        id: shortId.generate(),
+      });
+    });
+
+    console.log(data);
+
+    const json = JSON.stringify(data);
+
+    fs.writeFile("./data/items.json", json, "utf8", () => {
+      console.log("success");
+    });
+
+    await browser.close();
+  } catch (error) {
+    console.log(error);
+  }
 }
 
-addId();
+getItems();

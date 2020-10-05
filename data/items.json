@@ -1,265 +1,320 @@
 [
   {
-    "id": "_1lpBCMbZ",
+    "url": "https://rerollcdn.com/items/BFSword.png",
+    "name": "B.F. Sword",
+    "type": "base",
+    "id": "rY5EcjQgX"
+  },
+  {
+    "url": "https://rerollcdn.com/items/ChainVest.png",
+    "name": "Chain Vest",
+    "type": "base",
+    "id": "YGVphJJfB"
+  },
+  {
+    "url": "https://rerollcdn.com/items/GiantsBelt.png",
+    "name": "Giant's Belt",
+    "type": "base",
+    "id": "XtDSPQ_Alz"
+  },
+  {
+    "url": "https://rerollcdn.com/items/NeedlesslyLargeRod.png",
+    "name": "Needlessly Large Rod",
+    "type": "base",
+    "id": "M0N7sGVQQr"
+  },
+  {
+    "url": "https://rerollcdn.com/items/NegatronCloak.png",
+    "name": "Negatron Cloak",
+    "type": "base",
+    "id": "aHGH4OKEnE"
+  },
+  {
+    "url": "https://rerollcdn.com/items/RecurveBow.png",
+    "name": "Recurve Bow",
+    "type": "base",
+    "id": "qqBgwqpgaS"
+  },
+  {
+    "url": "https://rerollcdn.com/items/SparringGloves.png",
+    "name": "Sparring Gloves",
+    "type": "base",
+    "id": "iUAopEuT9v"
+  },
+  {
+    "url": "https://rerollcdn.com/items/Spatula.png",
+    "name": "Spatula",
+    "type": "base",
+    "id": "Qu86k58ff9"
+  },
+  {
+    "url": "https://rerollcdn.com/items/TearoftheGoddess.png",
+    "name": "Tear of the Goddess",
+    "type": "base",
+    "id": "iVV2G1wcUg"
+  },
+  {
+    "url": "https://rerollcdn.com/items/Bloodthirster.png",
     "name": "Bloodthirster",
     "type": "combined",
-    "recipe": []
+    "id": "xhcxFvOOaR"
   },
-  { "id": "yHaBPUuQ9z", "name": "Blue Buff", "type": "combined", "recipe": [] },
   {
-    "id": "vWa9WfBebE",
+    "url": "https://rerollcdn.com/items/BlueBuff.png",
+    "name": "Blue Buff",
+    "type": "combined",
+    "id": "6EgDq9Rqd1"
+  },
+  {
+    "url": "https://rerollcdn.com/items/BrambleVest.png",
     "name": "Bramble Vest",
     "type": "combined",
-    "recipe": []
+    "id": "7QWNkwoO9O"
   },
   {
-    "id": "FgMlyrSe7v",
+    "url": "https://rerollcdn.com/items/ChaliceofPower.png",
     "name": "Chalice of Power",
     "type": "combined",
-    "recipe": []
+    "id": "IBqbdhaaM5"
   },
   {
-    "id": "vA8oYgf-_w",
+    "url": "https://rerollcdn.com/items/Deathblade.png",
     "name": "Deathblade",
     "type": "combined",
-    "recipe": []
+    "id": "nvnTPXA3g2"
   },
   {
-    "id": "UfP5PMTy2h",
+    "url": "https://rerollcdn.com/items/DragonsClaw.png",
     "name": "Dragon's Claw",
     "type": "combined",
-    "recipe": []
+    "id": "4-39ZVl0kZ"
   },
   {
-    "id": "CpXnarlgus",
+    "url": "https://rerollcdn.com/items/DuelistsZeal.png",
     "name": "Duelist's Zeal",
     "type": "combined",
-    "recipe": []
+    "id": "ISOWCSl4x-"
   },
   {
-    "id": "mNglbjGyWt",
+    "url": "https://rerollcdn.com/items/ElderwoodHeirloom.png",
     "name": "Elderwood Heirloom",
     "type": "combined",
-    "recipe": []
+    "id": "K4SwIOT1lQ"
   },
   {
-    "id": "qBCpKG2gxv",
+    "url": "https://rerollcdn.com/items/FrozenHeart.png",
     "name": "Frozen Heart",
     "type": "combined",
-    "recipe": []
+    "id": "I7votHCjb_P"
   },
   {
-    "id": "5bxV6sF8t-",
+    "url": "https://rerollcdn.com/items/GargoyleStoneplate.png",
     "name": "Gargoyle Stoneplate",
     "type": "combined",
-    "recipe": []
+    "id": "84gvRQ-AQFi"
   },
   {
-    "id": "ksdEUiBfCV",
+    "url": "https://rerollcdn.com/items/GiantSlayer.png",
     "name": "Giant Slayer",
     "type": "combined",
-    "recipe": []
+    "id": "0Y43rpwU9I0"
   },
   {
-    "id": "tlYRmcZVKS",
+    "url": "https://rerollcdn.com/items/GuardianAngel.png",
     "name": "Guardian Angel",
     "type": "combined",
-    "recipe": []
+    "id": "TPS8TzZaNJ0"
   },
   {
-    "id": "0riTKLIdWy",
+    "url": "https://rerollcdn.com/items/GuinsoosRageblade.png",
     "name": "Guinsoo's Rageblade",
     "type": "combined",
-    "recipe": []
+    "id": "7j1zBI72mEb"
   },
   {
-    "id": "uDysnu07BM",
+    "url": "https://rerollcdn.com/items/HandofJustice.png",
     "name": "Hand of Justice",
     "type": "combined",
-    "recipe": []
+    "id": "0mRwI-3xnw2"
   },
   {
-    "id": "rwqglN55NU",
+    "url": "https://rerollcdn.com/items/HextechGunblade.png",
     "name": "Hextech Gunblade",
     "type": "combined",
-    "recipe": []
+    "id": "T2Uzy_lR2UR"
   },
   {
-    "id": "BBgL_NIvn7",
+    "url": "https://rerollcdn.com/items/InfinityEdge.png",
     "name": "Infinity Edge",
     "type": "combined",
-    "recipe": []
+    "id": "keR-GKVrqyH"
   },
   {
-    "id": "EVMriMXKP_L",
+    "url": "https://rerollcdn.com/items/IonicSpark.png",
     "name": "Ionic Spark",
     "type": "combined",
-    "recipe": []
+    "id": "vt6s35D55K7"
   },
   {
-    "id": "jHx6Ds5BURc",
+    "url": "https://rerollcdn.com/items/JeweledGauntlet.png",
     "name": "Jeweled Gauntlet",
     "type": "combined",
-    "recipe": []
+    "id": "YShvAMTJAvC"
   },
   {
-    "id": "HJkfbUsYyRc",
+    "url": "https://rerollcdn.com/items/LastWhisper.png",
     "name": "Last Whisper",
     "type": "combined",
-    "recipe": []
+    "id": "QeCMINTDb_X"
   },
   {
-    "id": "Ua7B80NzN0P",
+    "url": "https://rerollcdn.com/items/LocketoftheIronSolari.png",
     "name": "Locket of the Iron Solari",
     "type": "combined",
-    "recipe": []
+    "id": "i_I278AkO2-"
   },
   {
-    "id": "L1HkH3YLtDo",
+    "url": "https://rerollcdn.com/items/LudensEcho.png",
     "name": "Luden's Echo",
     "type": "combined",
-    "recipe": []
+    "id": "vpEMIxchtxZ"
   },
   {
-    "id": "wYbflsaqq1E",
+    "url": "https://rerollcdn.com/items/MagesCap.png",
     "name": "Mage's Cap",
     "type": "combined",
-    "recipe": []
+    "id": "wdDrKtlWqaU"
   },
   {
-    "id": "XpsPNRk7gqR",
+    "url": "https://rerollcdn.com/items/MantleofDusk.png",
     "name": "Mantle of Dusk",
     "type": "combined",
-    "recipe": []
+    "id": "JFFdz7lBD-C"
   },
   {
-    "id": "NFlzFQFpfk7",
+    "url": "https://rerollcdn.com/items/Morellonomicon.png",
     "name": "Morellonomicon",
     "type": "combined",
-    "recipe": []
+    "id": "tSkUfFwffFd"
   },
   {
-    "id": "eVxfDmT0bhT",
+    "url": "https://rerollcdn.com/items/Quicksilver.png",
     "name": "Quicksilver",
     "type": "combined",
-    "recipe": []
+    "id": "_KyxNCDb69T"
   },
   {
-    "id": "ygxtDiaDSfd",
+    "url": "https://rerollcdn.com/items/RabadonsDeathcap.png",
     "name": "Rabadon's Deathcap",
     "type": "combined",
-    "recipe": []
+    "id": "YcBjh7uBBc6"
   },
   {
-    "id": "mz6n0dvlzqA",
+    "url": "https://rerollcdn.com/items/RapidFirecannon.png",
     "name": "Rapid Firecannon",
     "type": "combined",
-    "recipe": []
+    "id": "32j16XZaM5X"
   },
   {
-    "id": "dEcDbrVAaOH",
+    "url": "https://rerollcdn.com/items/Redemption.png",
     "name": "Redemption",
     "type": "combined",
-    "recipe": []
+    "id": "Hs_k-pZS3Dr"
   },
   {
-    "id": "wt2vZfX1HY0",
+    "url": "https://rerollcdn.com/items/RunaansHurricane.png",
     "name": "Runaan's Hurricane",
     "type": "combined",
-    "recipe": []
+    "id": "CXGY0uBVYIY"
   },
   {
-    "id": "hyFYGYHPaTd",
+    "url": "https://rerollcdn.com/items/ShroudofStillness.png",
     "name": "Shroud of Stillness",
     "type": "combined",
-    "recipe": []
+    "id": "Zi80I2qQDjM"
   },
   {
-    "id": "PBmP0nLOKhL",
+    "url": "https://rerollcdn.com/items/SpearofShojin.png",
     "name": "Spear of Shojin",
     "type": "combined",
-    "recipe": []
+    "id": "wtHJA9SOaHF"
   },
   {
-    "id": "KTAv6WvjbL5",
+    "url": "https://rerollcdn.com/items/StatikkShiv.png",
     "name": "Statikk Shiv",
     "type": "combined",
-    "recipe": []
+    "id": "F9SSsxADEHa"
   },
   {
-    "id": "N9miNqEmWt8",
+    "url": "https://rerollcdn.com/items/SunfireCape.png",
     "name": "Sunfire Cape",
     "type": "combined",
-    "recipe": []
+    "id": "W8GDNvtIrDz"
   },
   {
-    "id": "30rxglWL6cd",
+    "url": "https://rerollcdn.com/items/SwordoftheDivine.png",
     "name": "Sword of the Divine",
     "type": "combined",
-    "recipe": []
+    "id": "8EoPWAzPZUB"
   },
   {
-    "id": "DM5Tj90tYHK",
+    "url": "https://rerollcdn.com/items/ThiefsGloves.png",
     "name": "Thief's Gloves",
     "type": "combined",
-    "recipe": []
+    "id": "Gz4-DpNG-wb"
   },
   {
-    "id": "lLvauSF-qOU",
+    "url": "https://rerollcdn.com/items/TitansResolve.png",
     "name": "Titan's Resolve",
     "type": "combined",
-    "recipe": []
+    "id": "SHQClk3J0Mb"
   },
   {
-    "id": "QYWXc_JAwFd",
+    "url": "https://rerollcdn.com/items/TrapClaw.png",
     "name": "Trap Claw",
     "type": "combined",
-    "recipe": []
+    "id": "QVo1BDvUGDj"
   },
   {
-    "id": "JSsUImQ5NvU",
+    "url": "https://rerollcdn.com/items/VanguardsCuirass.png",
     "name": "Vanguard's Cuirass",
     "type": "combined",
-    "recipe": []
+    "id": "53XNy06nUcA"
   },
   {
-    "id": "_n-UkTYapn6",
+    "url": "https://rerollcdn.com/items/WarlordsBanner.png",
     "name": "Warlord's Banner",
     "type": "combined",
-    "recipe": []
+    "id": "t21uBkS4-jE"
   },
   {
-    "id": "9U4NntYAcpC",
+    "url": "https://rerollcdn.com/items/WarmogsArmor.png",
     "name": "Warmog's Armor",
     "type": "combined",
-    "recipe": []
+    "id": "85L2zNGXxaG"
   },
   {
-    "id": "q-m8T-tvGfk",
+    "url": "https://rerollcdn.com/items/YoumuusGhostblade.png",
     "name": "Youmuu's Ghostblade",
     "type": "combined",
-    "recipe": []
+    "id": "EpbeCCjhQVt"
   },
   {
-    "id": "9thZR221_ZW",
+    "url": "https://rerollcdn.com/items/ZekesHerald.png",
     "name": "Zeke's Herald",
     "type": "combined",
-    "recipe": []
+    "id": "cyJDLHqHMD7"
   },
-  { "id": "S24vYYz8sbc", "name": "Zephyr", "type": "combined", "recipe": [] },
   {
-    "id": "HYk0At0UtN9",
+    "url": "https://rerollcdn.com/items/Zephyr.png",
+    "name": "Zephyr",
+    "type": "combined",
+    "id": "X0Thn_a1CvB"
+  },
+  {
+    "url": "https://rerollcdn.com/items/ZzRotPortal.png",
     "name": "Zz'Rot Portal",
     "type": "combined",
-    "recipe": []
-  },
-  { "id": "9c8SNW-Fi", "name": "Zz'Rot Portal", "type": "base" },
-  { "id": "KyI6LROiw2", "name": "Zz'Rot Portal", "type": "base" },
-  { "id": "YaPxDs3-Is", "name": "Zz'Rot Portal", "type": "base" },
-  { "id": "qE8fhN7AhI", "name": "Zz'Rot Portal", "type": "base" },
-  { "id": "mY569z71D4", "name": "Zz'Rot Portal", "type": "base" },
-  { "id": "iidzbedv3u", "name": "Zz'Rot Portal", "type": "base" },
-  { "id": "rutm5Hip3g", "name": "Zz'Rot Portal", "type": "base" },
-  { "id": "LAqOEAk7PC", "name": "Zz'Rot Portal", "type": "base" },
-  { "id": "4oPgRLxl3h", "name": "Zz'Rot Portal", "type": "base" }
+    "id": "agRLgNfJmu9"
+  }
 ]
